@@ -11,7 +11,7 @@
 		<style></style>
 </head>
 	<body>
-
+	
 		<ul>
 			<li>첫번째 리스트</li>
 			<li>두번째 리스트</li>
@@ -19,7 +19,7 @@
 			<li>넷번째 리스트</li>
 			<li>다섯번째 리스트</li>
 		</ul>
-
+		<p>리스트 추가 그만</p>
 	</body>
 	<script></script>
 </html>

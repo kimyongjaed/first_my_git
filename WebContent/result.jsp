@@ -12,9 +12,12 @@
 </head>
 	<body>
 
-		<ul>
-			<li>첫번째 리스트</li>
-		</ul>
+	<ol>
+		<li>list</li>
+		<li>list</li>
+		<li>list</li>
+		<li>list</li>
+	</ol>
 
 	</body>
 	<script></script>

@@ -14,15 +14,17 @@
 	<h3>로그인페이지</h3>
 		<table>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>ID</td>
+			<td><td input type="text" name="userId"/></td></td>
 		</tr>
 			<tr>
-			<td></td>
-			<td></td>
+			<td>PW</td>
+			<td><td input type="password" name="userPw"/></td></td>
 		</tr>
 			<tr>
-			<td colspan="2"></td>
+			<td colspan="2">
+				<button>로그인</button>
+			</td>
 			
 		</tr>
 		</table>
